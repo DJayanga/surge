@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "6202887792198fd4cfa162b1"
+  },
+  "fullName": "D Jayanga",
+  "email": "das@gmail.com",
+  "userName": "das",
+  "passwordHash": "$2a$10$4qzeohzCbbUBZIAYvZf8w.jiZZQi4Xc9.sOHBsJigi1TR4Te6lgQK",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6202c943bffaf572ad31f536"
+  },
+  "fullName": "kasasas",
+  "email": "dasdss@gmail.com",
+  "userName": "sdsd",
+  "passwordHash": "$2a$10$zY4crWUhdasxfzYZJQ8fpOHF9ohhewjlsObm8QiEkHus/NkSLbHAC",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6202ca97bffaf572ad31f53e"
+  },
+  "fullName": "kasasasd",
+  "email": "dadsdss@gmail.com",
+  "userName": "sdsdd",
+  "passwordHash": "$2a$10$OXgjfPlK6BWbCzVkQ8x0Nuv3S0zWv3g0vLCnSsPnB33.MEKdjtYvW",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6202cdb4bffaf572ad31f548"
+  },
+  "fullName": "kasasas",
+  "email": "d@gmail.com",
+  "userName": "asss",
+  "passwordHash": "$2a$10$0d.j6QW6ff1ZTJYx7D/ose.CHKq6CzwxbXINudl8RkBFr.zLTJRx2",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6202e51efa82585c3e89a244"
+  },
+  "fullName": "asas",
+  "email": "dasun@gmail.com",
+  "userName": "dasun",
+  "passwordHash": "$2a$10$8NoVobQM/JwuYyUFyehEr.gHChXtS.OkwHS9RSajcONkywgjNmfra",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6202ee49fa82585c3e89a250"
+  },
+  "fullName": "Dasun",
+  "email": "j@gmail.com",
+  "userName": "jjat",
+  "passwordHash": "$2a$10$RVzp9EWMxGoDPpq8xtFfgOO1KXjMKcFUCx6lCPS4pxOLQB9SVNJXe",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6202f657e60c2e748b5919bb"
+  },
+  "fullName": "daasasa",
+  "email": "dasunjayangadj@gmail.com",
+  "userName": "daseeee",
+  "passwordHash": "$2a$10$aGnGn.1qaNtQk8FwzAELquolciWfeu5SBjeBzCJ7AFqUc0XyFZ1iq",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6202f8aae60c2e748b5919d0"
+  },
+  "fullName": "asa",
+  "email": "asa@gmail.com",
+  "userName": "dasas",
+  "passwordHash": "$2a$10$eUNXeMCYQ51Q9xgHGyTeNOKujrPucnoMPFpNNV01ICoWq6Gw5Q6LK",
+  "__v": 0
+}]
